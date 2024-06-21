@@ -57,13 +57,20 @@ button{
 
 @media screen and (min-width:1024px) {
     header{
-        background-color: brown;
+        background-color: rgb(93, 165, 126);
+        .OqEh{
+            padding: 50px;
+            text-align: center;
+            font-size: 21px;
+        }
     }
 
 } 
 @media screen and (min-width:1700px) {
     header{
-        background-color: rgb(243, 17, 224);
+        background-color: rgb(93, 165, 126);
+
+
     }
 
 } 
