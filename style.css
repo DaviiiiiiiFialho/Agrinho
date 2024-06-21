@@ -70,8 +70,11 @@ button{
 @media screen and (min-width:1700px) {
     header{
         background-color: rgb(93, 165, 126);
-
-
+ }
+ .OqEh{
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
     }
 
 } 
