@@ -34,7 +34,17 @@ button{
     text-align: center;
 }
 
-
+.sim{
+    background: rgb(93, 165, 126) ;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    bottom: 0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(58, 102, 79);
+}
 
 
 
